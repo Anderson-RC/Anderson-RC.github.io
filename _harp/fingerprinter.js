@@ -20,8 +20,9 @@ function GenerateTableRow() {
 		'FORM_FACTOR': WURFL.form_factor,
 		'DEVICE_NAME': WURFL.complete_device_name,
 		'RESOLUTION' :  {"width": windowWidth,
-				 "height": windowHeight
-				}
+						"height": windowHeight
+						},
+		'USERAGENT' : window.navigator.userAgent
 			}
 		}
 	docClient.put(params, function(err, data) {
