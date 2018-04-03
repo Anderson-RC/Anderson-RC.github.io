@@ -2064,13 +2064,14 @@ function GenerateTableRow() {
 		TableName : 'MobileUserFingerprinting',
 		Item: {
 		'ClientID': Cookies.get('timestampidentifier'),
-		'IS_MOBILE': WURFL.is_mobile,
+		'LastUpdatedTimeStamp' : new Date().toLocaleString(),
 		'FORM_FACTOR': WURFL.form_factor,
 		'DEVICE_NAME': WURFL.complete_device_name,
 		'RESOLUTION' :  {"width": windowWidth,
 						"height": windowHeight
 						},
-		'USERAGENT' : window.navigator.userAgent
+		'USERAGENT' : window.navigator.userAgent,
+		'IS_MOBILE': WURFL.is_mobile
 			}
 		}
 	docClient.put(params, function(err, data) {
