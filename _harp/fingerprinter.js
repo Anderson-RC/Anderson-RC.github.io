@@ -31,6 +31,7 @@ function GenerateTableRow() {
         		window.console.error("Unable to add item. Error JSON:", JSON.stringify(err, null, 2));
     		} else {
         		window.console.log("Added item:", JSON.stringify(data, null, 2));
+				$(location).attr('href','/thanks.html');
     		}
 	});
 }
