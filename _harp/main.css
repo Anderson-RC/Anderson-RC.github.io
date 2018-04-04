@@ -1,4 +1,39 @@
-body{font-family:"Helvetica";text-align:center;padding:50px 20px 0;background:#f4f4f7;color:#444;margin:0}h1{font-size:65px;line-height:1.2em;border-bottom:#CCC solid 1px;padding:20px 0}h3{font-weight:300}
+body{font-family:"Helvetica";text-align:center;padding:50px 20px 0;background:#f4f4f7;color:#444;margin:0; padding-bottom:60px;}h1{font-size:48px;line-height:1.2em;border-bottom:#CCC solid 1px;padding:20px 0}h3{font-weight:300}
+footer {
+    width: 100%;
+    margin-top: 30px;
+    background-color: #eaeaea;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 45px;
+}
+footer .footer-inner
+{
+    width: 95%;
+    margin: 0 auto;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+footer .left-hand-text 
+{
+  float: left;
+  font-size: 0.9rem;
+  line-height: 1.5rem;
+  color: #807d7d;
+  text-align: left;
+  font-family: "Helvetica";
+}
+
+.clear 
+{
+    clear: both;
+}
 
 /*http://littlesnippets.net/?sfid=1171&_sft_category=buttons&sf_paged=2*/
 @import url(https://fonts.googleapis.com/css?family=Raleway:400);
