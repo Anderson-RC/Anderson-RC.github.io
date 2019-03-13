@@ -19,7 +19,7 @@ Consuming only right amount of Kcal,Business-as-usual outlook,Consuming only rig
 Consuming healthy foods,Business-as-usual outlook,Consuming healthy foods,
 Consuming healthy foods but eating too much,Business-as-usual outlook,Consuming healthy foods but eating too much,
 target,
-T_E_FOF,Foodprint of food,Thingy about food, http://www.google.com/images,200
+T_E_FOF,Foodprint of food,Here is some stuff about food, http://www.google.com/images,200
 T_E_CSO,Equity in food consumption
 T_E_CSC,Equity access to food
 T_E_PCA,Equity among producers and chain actors
