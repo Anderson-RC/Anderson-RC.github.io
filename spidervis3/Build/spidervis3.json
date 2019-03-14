@@ -1,13 +1,13 @@
 {
-"companyName": "DefaultCompany",
-"productName": "SpiderVis",
+"companyName": "SUSFANS",
+"productName": "SpiderGraphVisualiser",
 "dataUrl": "spidervis3.data.unityweb",
 "wasmCodeUrl": "spidervis3.wasm.code.unityweb",
 "wasmFrameworkUrl": "spidervis3.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
-"splashScreenStyle": "Dark",
-"backgroundColor": "#231F20",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
 "cacheControl": {"default": "must-revalidate"}
 }
