@@ -1,64 +1,72 @@
-policygoal,
+policygoal,,,,,,,
 Envir,<alpha=#00>.<alpha=#FF>         Reduced environmental impacts of the EU food-system         <alpha=#00>.,"236,236,236","96,142,67","255,255,255","248,254,242","239,254,225","95,110,79"
 Compet,<alpha=#00>.<alpha=#FF>                   Competitiveness of EU agri-food business                  <alpha=#00>.,"236,236,236","72,133,180","255,255,255","239,246,255","224,235,253","57,74,92"
 Equity,<alpha=#00>.<alpha=#FF>     Equitable outcomes and conditions of the EU food system    <alpha=#00>.,"236,236,236","249,203,66","255,255,253","254,253,248","251,247,238","127,112,76"
-Diets,<alpha=#00>.<alpha=#FF>                 Balanced and sufficient diets for EU citizens                <alpha=#00>.,"236,236,236","238,182,73","254,255,253","255,252,245","251,247,238","144,124,87"
-year,
-2010,
-2020,
-2030,
-2040,
-2050,
-scenarios,
-Business-as-usual outlook,Business-as-usual outlook
-Negative sustainability outlook,Negative sustainability outlook
-Positive sustainability outlook,Positive sustainability outlook
-subscenarios,
-Consuming a healthy and balanced diet,Business-as-usual outlook,Consuming a healthy and balanced diet,
-Consuming only right amount of Kcal,Business-as-usual outlook,Consuming only right amount of Kcal,
-Consuming healthy foods,Business-as-usual outlook,Consuming healthy foods,
-Consuming healthy foods but eating too much,Business-as-usual outlook,Consuming healthy foods but eating too much,
-target,
-T_E_FOF,Foodprint of food,Here is some stuff about food, http://www.google.com/images,200
-T_E_CSO,Equity in food consumption
-T_E_CSC,Equity access to food
-T_E_PCA,Equity among producers and chain actors
-T_D_FBIS,Food-based intake summary
-T_D_NBIS,Nutrient-based intake summary
-T_D_ENBA,Energy balance
-T_D_DUM,Reduced burden of diet-related diseases
-T_C_EPP,Value added
-T_C_OST,Jobs and Wages
-T_C_RPT,Productivity
-T_C_DUM,True-price structure
-T_EV_CS,Climate stabilisation
-T_EV_CW,Clean air and water
-T_EV_BC,Biodiversity conservation
-T_EV_PNR,Preservation of natural resources
-metric,
-M_E_FOF,Foodprint of food
-M_E_CSO,Equity in food consumption
-M_E_CSC,Equity access to food
-M_E_PCA,Equity among producers and chain actors
-M_D_FBIS,Food-based intake summary
-M_D_NBIS,Nutrient-based intake summary
-M_D_ENBA,Energy balance
-M_D_DUM,Reduced burden of diet-related diseases
-M_C_EPP,Value added
-M_C_OST,Jobs and Wages
-M_C_RPT,Productivity
-M_C_DUM,True-price structure
-M_EV_CS,Climate stabilisation
-M_EV_CW,Clean air and water
-M_EV_BC,Biodiversity conservation
-M_EV_PNR,Preservation of natural resources
-policyouterlabel,
-Equity,<alpha=#00>.<alpha=#FF>                      People                       <alpha=#00>.,180,"253,236,206","178,123,13"
-Compet,<alpha=#00>.<alpha=#FF>                      Profit                       <alpha=#00>.,90,"198,211,228","25,42,62"
-Envir,<alpha=#00>.<alpha=#FF>                      Planet                       <alpha=#00>.,90,"204,216,192","34,59,20"
-country,
-EU28
-CZE
-DNK
-FRA
-ITA
+Diet,<alpha=#00>.<alpha=#FF>                 Balanced and sufficient diets for EU citizens                <alpha=#00>.,"236,236,236","238,182,73","254,255,253","255,252,245","251,247,238","144,124,87"
+year,,,,,,,
+2010,,,,,,,
+2020,,,,,,,
+2030,,,,,,,
+2040,,,,,,,
+2050,,,,,,,
+scenarios,,,,,,,
+REF0,Business-as-usual outlook,,,,,,
+REF-,Negative sustainability outlook,,,,,,
+REF+,Positive sustainability outlook,,,,,,
+subscenarios,,,,,,,
+DP_REF0,REF0,Consuming a healthy and balanced diet,,,,,
+DPE0_REF0,REF0,Consuming only right amount of Kcal,,,,,
+DPEM_REF0,REF0,Consuming healthy foods,,,,,
+DEM_REF0,REF0,Consuming healthy foods but eating too much,,,,,
+DP_REF-,REF-,Consuming a healthy and balanced diet,,,,,
+DPE0_REF-,REF-,Consuming only right amount of Kcal,,,,,
+DPEM_REF-,REF-,Consuming healthy foods,,,,,
+DEM_REF-,REF-,Consuming healthy foods but eating too much,,,,,
+DP_REF+,REF+,Consuming a healthy and balanced diet,,,,,
+DPE0_REF+,REF+,Consuming only right amount of Kcal,,,,,
+DPEM_REF+,REF+,Consuming healthy foods,,,,,
+DEM_REF+,REF+,Consuming healthy foods but eating too much,,,,,
+target,,,,,,,
+T_E_FOF,Footprint of food,Description here, http://www.google.com/images,200,,,
+T_E_CSO,Equity in food consumption,Description here, http://www.google.com/,200,,,
+T_E_CSC,Equity access to food,Description here, http://bbc.co.uk,200,,,
+T_E_PCA,Equity among producers and chain actors,Description here, http://www.google.com/images,200,,,
+T_D_FBIS,Food-based intake summary,Description here, http://www.google.com/images,200,,,
+T_D_NBIS,Nutrient-based intake summary,Description here, http://www.google.com/images,200,,,
+T_D_ENBA,Energy balance,Description here, http://www.google.com/images,200,,,
+T_D_DUM,Reduced burden of diet-related diseases,Description here, http://www.google.com/images,200,,,
+T_C_VD,Value added,Description here, http://www.google.com/images,200,,,
+T_C_JW,Jobs and Wages,Description here, http://www.google.com/images,200,,,
+T_C_PRD,Productivity,Description here, http://www.google.com/images,200,,,
+T_C_TRP,True-price structure,Description here, http://www.google.com/images,200,,,
+T_EV_CS,Climate stabilisation,Description here, http://www.google.com/images,200,,,
+T_EV_CW,Clean air and water,Description here, http://www.google.com/images,200,,,
+T_EV_BC,Biodiversity conservation,Description here, http://www.google.com/images,200,,,
+T_EV_PNR,Preservation of natural resources,Description here, http://www.google.com/images,200,,,
+metric,,,,,,,
+M_E_FOF,Footprint of food,,,,,,
+M_E_CSO,Equity in food consumption,,,,,,
+M_E_CSC,Equity access to food,,,,,,
+M_E_PCA,Equity among producers and chain actors,,,,,,
+M_D_FBIS,Food-based intake summary,,,,,,
+M_D_NBIS,Nutrient-based intake summary,,,,,,
+M_D_ENBA,Energy balance,,,,,,
+M_D_DUM,Reduced burden of diet-related diseases,,,,,,
+M_C_VA,Value added,,,,,,
+M_C_JW,Jobs and Wages,,,,,,
+M_C_PRD,Productivity,,,,,,
+M_C_TRP,True-price structure,,,,,,
+M_EV_CS,Climate stabilisation,,,,,,
+M_EV_CW,Clean air and water,,,,,,
+M_EV_BC,Biodiversity conservation,,,,,,
+M_EV_PNR,Preservation of natural resources,,,,,,
+policyouterlabel,,,,,,,
+Equity,<alpha=#00>.<alpha=#FF>                      People                       <alpha=#00>.,180,"253,236,206","178,123,13",,,
+Compet,<alpha=#00>.<alpha=#FF>                      Profit                       <alpha=#00>.,90,"198,211,228","25,42,62",,,
+Envir,<alpha=#00>.<alpha=#FF>                      Planet                       <alpha=#00>.,90,"204,216,192","34,59,20",,,
+country,,,,,,,
+EU28,,,,,,,
+CZE,,,,,,,
+DNK,,,,,,,
+FRA,,,,,,,
+ITA,,,,,,,
