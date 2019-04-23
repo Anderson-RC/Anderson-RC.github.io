@@ -65,7 +65,7 @@ Equity,<alpha=#00>.<alpha=#FF>                      People                      
 Compet,<alpha=#00>.<alpha=#FF>                      Profit                       <alpha=#00>.,90,"198,211,228","25,42,62",,,
 Envir,<alpha=#00>.<alpha=#FF>                      Planet                       <alpha=#00>.,90,"204,216,192","34,59,20",,,
 country,,,,,,,
-EU28,,,,,,,
+EUE,,,,,,,
 CZE,,,,,,,
 DNK,,,,,,,
 FRA,,,,,,,
