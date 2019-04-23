@@ -40,7 +40,7 @@ T_C_JW,Jobs and Wages, How does agri-business compare to others` regarding job c
 T_C_PRD,Productivity, How does agri-business compare to others` regarding productivity and innovation capacity?,susfans.eu/vs/Economy_productivity,200,,,
 T_C_TRP,Emission Price Gap,How far off is the market price because it does not account for carbon emissions?,susfans.eu/vs/Economy_truepricestructure,200,,,
 T_EV_CS,Climate stabilisation, Is European food production climate-smart?,susfans.eu/vs/Environment_stabilisation,200,,,
-T_EV_CW,Clean air and water, Is the food produced in Europe produced without polluting the soils` air, and water?, susfans.eu/vs/Environment_airandwater,200,,,
+T_EV_CW,Clean air and water, Is the food produced in Europe produced without polluting the soils` air` and water?, susfans.eu/vs/Environment_airandwater,200,,,
 T_EV_BC,Biodiversity conservation, Can we avoid adding pressure (due to the food we eat) on the genetic and functional diversity of species on our planet?,susfans.eu/vs/Environment_biodiversity,200,,,
 T_EV_PNR,Preservation of natural resources, Is the food system in Europe respecting the scarcity of natural resources such as water` soil fertility and fish stock?, susfans.eu/vs/Environment_naturalresoures,200,,,
 metric,,,,,,,
