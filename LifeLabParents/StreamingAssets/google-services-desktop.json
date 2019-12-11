@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "360873269279",
+    "firebase_url": "https://lifelabparents.firebaseio.com",
+    "project_id": "lifelabparents",
+    "storage_bucket": "lifelabparents.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360873269279:android:5bf211d95da15c29891d2a",
+        "android_client_info": {
+          "package_name": "com.eachb.lifelabparents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360873269279-4oi1uvqfupcjr100dbmm60a7v1fef74i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANeqR5uav7Gf-zwCmY6BgSqKTZlIe2TlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360873269279-4oi1uvqfupcjr100dbmm60a7v1fef74i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "360873269279-n9iske7tn8k64mus21vu3bp97sm6aafb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eachb.lifelabparents"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
